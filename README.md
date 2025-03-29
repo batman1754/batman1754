@@ -1,11 +1,11 @@
 
-🏢 I’m currently working in R3tek as DevOps Engineer
+🏢 I’m currently working as DevOps Engineer
 
 🌱 I’m currently working on Setting up infra using Terraform over AWS
 
 💬 Ask me about DevOps Tools and Practices
 
-📫 You can reach me at batman71754@gmail.com
+📫 You can reach me at cloudpromanwith@gmail.com
 
 ⚡ Fun fact We guys automate stuff
 
