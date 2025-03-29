@@ -1,7 +1,7 @@
 
-🏢 I’m currently working as DevOps Engineer
+🏢 I’m currently working as Cloud DevOps Engineer
 
-🌱 I’m currently working on Setting up infra using Terraform over AWS
+🌱 I’m currently working on Setting up infra using Terraform over AWS and deploying microservices on k8's with helm
 
 💬 Ask me about DevOps Tools and Practices
 
@@ -16,12 +16,14 @@
 
 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - Github
 
-📦 CI of a python application using circleCI - Github
+📦 Setting up ArgoCD pipelines - Gitlab
 
-📦 Containerizing a ML MicroService and running it over Kubernetes - Github
+📦 Containerizing MicroServices and running it over Kubernetes - Github
 
 
 🧾 Certifications I have Accomplished
+🎖 Google Cloud Certified Associate Cloud Engineer
+
 🎖 AWS Certified Solutions Architect Associate
 
 🎖 Google Certified Digital Leader
@@ -40,7 +42,7 @@ mysql postgresql
 
 
 DevOps Stack
-aws gcp ansible terraform jenkins docker harbor kubernetes nginx logstash kibana promethues graphite grafana
+aws gcp kubernetes ansible terraform jenkins docker harbor kubernetes nginx logstash kibana promethues graphite grafana
 
 Project Management Stack
 git github bitbucket jira
